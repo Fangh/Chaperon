@@ -45,5 +45,5 @@ J'ai fait un github pour que vous puissiez voir chacun des commit qui explique d
 Je vais faire seulement des formes géométrique simple. Les seuls assets "graphique" seraont deux textures 2D pour le pointeur de souris ainsi que le personnage du projet TPC. Tous les décors seront en Geometry ou en Basic et le fait d'ajouter un nom aux objets de décors quand on passe la souris dessus suffiront à créer un univers.
 
 Pour bien voir les descriptif de mes commits, je vous ai rajouté deux images si jamais vous n'êtes pas familier avec Github
-![Voir les commits](https://raw.githubusercontent.com/Fangh/DN11_Test/blob/master/Help_Github1.png)
-![Lire les commentaires des commits](https://raw.githubusercontent.com/Fangh/DN11_Test/blob/master/Help_Github2.png)
+![Voir les commits](https://github.com/Fangh/DN11_Test/blob/master/Help_Github1.png)
+![Lire les commentaires des commits](https://github.com/Fangh/DN11_Test/blob/master/Help_Github2.png)
